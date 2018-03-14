@@ -59,9 +59,9 @@ public class chunking {
 	//Here are the JSON request and response objects that we'll handle
 	private class LoginRequest {
 		public String culture = "en-US";
-		public String licenseKey = "LICE075-D09A-64E3";
+		public String licenseKey = "";
 		public String deviceId = "REST Demo";
-		public String applicationId = "APP3075-D09A-59C8";
+		public String applicationId = "";
 		public String username;
 		public String password;
 	}
